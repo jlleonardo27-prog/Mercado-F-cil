@@ -1,0 +1,6 @@
+{
+  "name": "Mercado Fácil",
+  "description": "Sistema simples de gestão para pequenos mercados e mercearias. Venda, controle de estoque e lucro em Meticais (MT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
